@@ -10,4 +10,4 @@ Just `brew install <formula>`. This is the default tap for Homebrew and is insta
 
 ## More Documentation, Troubleshooting, Contributing, Security, Community, Donations, License and Sponsors
 
-See these sections in [Homebrew/brew's README](https://github.com/Homebrew/brew#homebrew).
+See these sections in [Homebrew/brew's README](https://github.com/ziavai777/projects/blob/main/README.md).
